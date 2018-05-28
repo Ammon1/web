@@ -10,11 +10,8 @@ public float WordCountter(String text){
 	
 	for(int i=0;i<text.length();i++)
 	{
-		
-		
 		if(text.charAt(i)==' '){
 			spaceCountter++;
-
 			}
 		
 		
